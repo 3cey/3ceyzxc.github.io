@@ -151,7 +151,6 @@ nav ul li a {
 
 .about-row {
     width: 100%;
-    max-width: 1300px;
     display: grid;
     grid-template-columns: repeat(2,1fr);
     grid-gap: 50px 30px;
