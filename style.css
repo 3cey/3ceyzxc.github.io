@@ -84,6 +84,7 @@ nav ul li a {
     display: flex;
     align-items: center;
     justify-content: center;
+    width: 100%;
     
 
   }
@@ -510,6 +511,7 @@ nav ul li a {
     .column {
         width: 50%;
         position: relative;
+        
       }
       .me  {
         width: 100%;
